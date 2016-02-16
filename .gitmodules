@@ -1,0 +1,3 @@
+[submodule "grafana-influx-dashboard"]
+	path = grafana-influx-dashboard
+	url = https://github.com/anryko/grafana-influx-dashboard.git
